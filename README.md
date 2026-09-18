@@ -37,10 +37,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HyuraFE&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyuraFE&layout=compact&theme=tokyonight&hide_border=true)
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=HyuraFE&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🤝 Connect With Me
