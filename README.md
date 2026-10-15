@@ -34,3 +34,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyuraFE&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+## 🎯 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/HyuraFE/manga-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuraFE&repo=manga-tracker&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/HyuraFE/shrtnr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyuraFE&repo=shrtnr&theme=radical" alt="Project 2" />
+  </a>
+</div>
+
